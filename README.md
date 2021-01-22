@@ -37,4 +37,17 @@ For GP3:
   
   -All other code was developed directly from GP2 and GP1
   
+For Lab (L):
+
+  -All IO files are modified code
+
+  -RegistrationManager was slightly modified code
+
+  -All of the panels were either fully given code or slightly modified code
+
+  -LinkedAbstractList and ArrayList were based off of examples provided in class
+
+  -The lab was built over the length of the entire semester
+  
+
 
