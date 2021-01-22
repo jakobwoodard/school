@@ -22,3 +22,13 @@ For GP1:
   -The code for WolfSchedulerGUI was provided in its entirety
 
   -An outline for WolfScheduler was provided
+  
+For GP2:
+
+  -ActivityRecordIO and CourseRecordIO are modified code
+  
+  -WolfScheudlerGUI was provided in its entirety
+  
+  -An outline for WolfScheduler was provided
+  
+
