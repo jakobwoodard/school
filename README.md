@@ -16,3 +16,9 @@ For P2:
   -HLOJDataReader/Writers were modified code
 
   -All of the files in the "view" folder were provided in their entirety
+  
+For GP1:
+
+  -The code for WolfSchedulerGUI was provided in its entirety
+
+  -An outline for WolfScheduler was provided
