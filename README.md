@@ -1,5 +1,5 @@
 # school
-These are projects that have been completed specifically from school work. Due to Academic Integrity Guidelines, I have included this README page that explain the code that was provided for me in part, and, in some instances, in full. Having transferred the code from one repository to another, they are stored in zip files with package names. To access the code itself, navigate through the folders within the zip files until reaching a file saved as a JAVA file.
+These are projects that have been completed specifically from school work. Due to Academic Integrity Guidelines, I have included this README page that explain the code that was provided for me in part, and, in some instances, in full. NONE of the code contained under the "school" repo is to be used in any way by another student to have an unfair advantage in future classes in which the contained code may be helpful. Having transferred the code from one repository to another, they are stored in zip files with package names. To access the code itself, navigate through the folders within the zip files until reaching a file saved as a JAVA file.
 
 For P1: 
   
