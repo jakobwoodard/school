@@ -8,3 +8,11 @@ For P1:
   -Given a shell for ProjectManager
   
   -Given ProjectManagerGUI in its entirety
+  
+For P2:
+
+  -HLOJ file was provided in full
+
+  -HLOJDataReader/Writers were modified code
+
+  -All of the files in the "view" folder were provided in their entirety
