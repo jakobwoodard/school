@@ -31,4 +31,10 @@ For GP2:
   
   -An outline for WolfScheduler was provided
   
+For GP3:
+
+  -ConflictException was based off of an example provided in-class
+  
+  -All other code was developed directly from GP2 and GP1
+  
 
